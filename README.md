@@ -45,3 +45,9 @@ git clone https://github.com/stephanie-lops/trilha-javascript-dev-portfolio.git
 ## JSON de perfil (data/profile.json)
 
 O portfólio usa um arquivo JSON para carregar dinamicamente:
+
+
+## Deplo no GitHubPages:
+``` bash
+https://stephanie-lops.github.io/trilha-javascript-dev-portfolio/
+```
